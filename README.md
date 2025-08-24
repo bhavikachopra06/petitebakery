@@ -37,8 +37,19 @@
 <h3 align="left">📸 𝚄𝙸 𝙿𝚛𝚎𝚟𝚒𝚎𝚠 / 𝚂𝚌𝚛𝚎𝚎𝚗𝚜𝚑𝚘𝚝𝚜</h3>
 
 <p align="center">🏠 𝙷𝚘𝚖𝚎𝚙𝚊𝚐𝚎</p>
+<p align="center">
+  <img src="README-images/homepage.png" alt="Homepage" width="600"/>
+</p>
+
 <p align="center">🛍️ 𝙿𝚛𝚘𝚍𝚞𝚌𝚝𝚜 𝙿𝚊𝚐𝚎</p>
+<p align="center">
+  <img src="README-images/products.png" alt="Products Page" width="600"/>
+</p>
+
 <p align="center">🛒 𝙲𝚊𝚛𝚝 𝙿𝚊𝚐𝚎</p>
+<p align="center">
+  <img src="README-images/cart.png" alt="Cart Page" width="600"/>
+</p>
 
 
 <h3 align="left">🚀 𝙵𝚞𝚝𝚞𝚛𝚎 𝙴𝚗𝚑𝚊𝚗𝚌𝚎𝚖𝚎𝚗𝚝𝚜</h3>
